@@ -14,4 +14,6 @@ but add
 
 ### /docs 
 
+after this there is an extra requirement that I have mentioned in the requirements.txt that must be installed surealy and named as sse-starlette , basically sse is a mini-version of websocket but un the case of websocket , communication happens two-ways but here only the server talks with the browser , and it codes itself for the server connection
+
 at the end and it should perfectly fine !!!
